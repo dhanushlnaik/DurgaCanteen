@@ -29,12 +29,12 @@ const Header = () => {
                                     </Link>
                                 </NavItem>
                                 <NavItem>
-                                    <Link className="nav-link" to={"/custom-components"}>
+                                    <Link className="nav-link" to={"/support"}>
                                         Contact Us
                                     </Link>
                                 </NavItem>
                                 <NavItem>
-                                    <Link className="nav-link" to={"/custom-components"}>
+                                    <Link className="nav-link" to={"/support"}>
                                         About Us
                                     </Link>
                                 </NavItem>
