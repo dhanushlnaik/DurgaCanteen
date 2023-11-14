@@ -17,7 +17,7 @@ var hist = createBrowserHistory();
 root.render(
   <HashRouter history={hist}>
     <Routes>
-      <Route path="/custom-components" element={<CustomComponents />} />
+      <Route path="/support" element={<CustomComponents />} />
       <Route path="/" element={<Components />} />
     </Routes>
   </HashRouter>
